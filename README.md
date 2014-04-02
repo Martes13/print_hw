@@ -1,4 +1,6 @@
-Assuming that you have java.exe in the Enviroment Variables path. 
+Assuming that you have java.exe in the Enviroment Variables path.
+
+
 1.Go to your workspace folder. 
 
 

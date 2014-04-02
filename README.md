@@ -1,4 +1,4 @@
-Assuming that you have java.exe in the Enviroment Variables path.
+Assuming that you have java.exe in the Enviroment Variables path. Follow the next steps to run the promgram
 
 
 1.Go to your workspace folder. 
